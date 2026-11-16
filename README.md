@@ -39,6 +39,11 @@ I help supply chains plan better, using simulation, forecasting and optimization
 - **Anna University (CEG)**, Chennai: B.E. in Mechanical Engineering, with Honours (2018 – 2022)
 - **Certifications:** Kinaxis Maestro Integration Level 1, Kinaxis Capacity Planning Specialist, Kinaxis Yield/Scrap Algorithm Specialist, Project Sherpa Certified Professional
 
+## Leadership
+
+- **Academic Chair**, Industrial Engineering Graduate Student Organization (IEGSO), Purdue
+- **Executive Head of Internal Events**, Tamil Sangam of Purdue
+
 ## Featured projects
 
 | Project | What it shows |
