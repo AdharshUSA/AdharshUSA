@@ -77,6 +77,7 @@ I help supply chains plan better, using simulation, forecasting and optimization
 - [forecasting-control-literature-synthesis](https://github.com/AdharshUSA/forecasting-control-literature-synthesis): four recent papers (k-NN, AI hybrids, Kalman filter, Forecasting as a Service) combined into one planning architecture
 - [spc-personal-productivity-dmaic](https://github.com/AdharshUSA/spc-personal-productivity-dmaic): seven-week DMAIC study with p-charts, c-charts and Pareto analysis
 - [closetcast](https://github.com/AdharshUSA/closetcast): product management case with a pilot-gated launch plan, business case and [live prototype](https://adharshusa.github.io/closetcast/) for a weather and comfort-aware outfit app (course concept)
+- [aircraft-lube-gear-pump-cfd](https://github.com/AdharshUSA/aircraft-lube-gear-pump-cfd): undergraduate final year project at DRDO CVRDE, with a MATLAB sensitivity model and ANSYS CFX flow study of an aircraft gearbox lubrication pump
 - [ferrofluid-bearing-ceiling-fan](https://github.com/AdharshUSA/ferrofluid-bearing-ceiling-fan): undergraduate design project on a ball bearing modified for ferrofluid lubrication in a ceiling fan motor, with SolidWorks models and Ansys structural analysis
 
 ## Currently
