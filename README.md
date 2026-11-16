@@ -41,8 +41,8 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 ## Leadership
 
-- **Academic Chair**, Industrial Engineering Graduate Student Organization (IEGSO), Purdue
-- **Executive Head of Internal Events**, Tamil Sangam of Purdue
+- **Industrial Engineering Graduate Student Organization (IEGSO), Purdue:** Public Relations Vice-Chair (Aug 2025 – May 2026), Academic Chair (Aug 2026 – Dec 2026)
+- **Tamil Sangam of Purdue:** Executive Head of Internal Events (Aug 2026 – Dec 2026)
 
 ## Featured projects
 
