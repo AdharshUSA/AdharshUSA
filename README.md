@@ -57,6 +57,6 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 ## Connect
 
-Email: adhurajausa@gmail.com
+[LinkedIn](https://www.linkedin.com/in/adharsh-rajasekar/) | Email: adhurajausa@gmail.com
 
 📍 West Lafayette, IN
