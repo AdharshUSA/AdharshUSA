@@ -27,6 +27,7 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 - [forecasting-control-literature-synthesis](https://github.com/AdharshUSA/forecasting-control-literature-synthesis): four recent papers (k-NN, AI hybrids, Kalman filter, Forecasting as a Service) combined into one planning architecture
 - [spc-personal-productivity-dmaic](https://github.com/AdharshUSA/spc-personal-productivity-dmaic): seven-week DMAIC study with p-charts, c-charts and Pareto analysis
+- [closetcast](https://github.com/AdharshUSA/closetcast): product management case with a pilot-gated launch plan, business case and prototype for a weather and comfort-aware outfit app (course concept)
 
 ## Currently
 
