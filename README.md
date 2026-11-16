@@ -38,6 +38,7 @@ I help supply chains plan better, using simulation, forecasting and optimization
 - Ran component-level performance tests on ~15 drivetrain and suspension components for armored vehicle systems, recording load, temperature and wear data against design specifications
 - Analyzed results in MATLAB and Excel and flagged 3 components outside tolerance for design review
 - Authored 2 technical reports on test procedures, results and recommendations, adopted as a reference for later test cycles
+- Final year project: built a MATLAB model of how gear geometry drives discharge in an aircraft gearbox lubrication gear pump, and ran an ANSYS CFX transient CFD study that located eddies and tip leakage as sources of flow loss ([project](https://github.com/AdharshUSA/aircraft-lube-gear-pump-cfd))
 
 ### Integral Coach Factory, Chennai | Intern Process Engineer, Dec 2019
 
