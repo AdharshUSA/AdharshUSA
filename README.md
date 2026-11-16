@@ -29,6 +29,26 @@ I help supply chains plan better, using simulation, forecasting and optimization
 - [spc-personal-productivity-dmaic](https://github.com/AdharshUSA/spc-personal-productivity-dmaic): seven-week DMAIC study with p-charts, c-charts and Pareto analysis
 - [closetcast](https://github.com/AdharshUSA/closetcast): product management case with a pilot-gated launch plan, business case and prototype for a weather and comfort-aware outfit app (course concept)
 
+## Experience
+
+**Kinaxis Inc., Chennai** | Jan 2022 – Jun 2025
+
+- **Supply Chain Planning Associate** (Jan 2024 – Jun 2025): deployed Kinaxis Maestro supply and capacity planning for multi-site manufacturers, cutting planning cycle time by ~30%, and built capacity models that improved plan accuracy by 20–25%
+- **Supply Chain Planning Analyst** (Jul 2022 – Jan 2024): built capacity planning dashboards (~25% better constraint visibility), reached 99.5% ERP–planning data sync reliability, and automated planning workflows to save ~8 hours a week
+- **Intern, Supply Chain Planning Analyst** (Jan 2022 – Jul 2022): automated planning data workflows and BOM cleanup, improving data accuracy by ~10–15%
+
+**DRDO – CVRDE, Chennai** | Intern R&D Engineer, Dec 2021 – Jun 2022
+
+- Ran performance tests on ~15 drivetrain and suspension components for armored vehicles and analyzed results in MATLAB and Excel, flagging 3 components outside tolerance
+
+**Integral Coach Factory, Chennai** | Intern Process Engineer, Dec 2019
+
+- Mapped a coach assembly workflow with value stream mapping and time studies at 6 workstations, identifying 3 improvements (estimated ~8–10% cycle-time reduction)
+
+**Unipres (UK) Limited, Chennai** | Intern Mechanical Engineer, Nov 2019
+
+- Analyzed press operations across 4 body-panel lines and co-authored a process review recommending SMED die changeover improvements (estimated ~12% changeover reduction)
+
 ## Currently
 
 - Finishing my MS in Industrial Engineering at Purdue (December 2026)
