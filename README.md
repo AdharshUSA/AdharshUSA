@@ -43,9 +43,9 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 | Project | What it shows |
 |---|---|
-| [semiconductor-supply-chain-resilience](https://github.com/AdharshUSA/semiconductor-supply-chain-resilience) | Arena model of a chip supply chain. Targeted fixes at bottlenecks took throughput from 33 to 112 chips in 1,000 hours (simulated). |
+| [semiconductor-supply-chain-resilience](https://github.com/AdharshUSA/semiconductor-supply-chain-resilience) | Arena model of a chip supply chain. Targeted fixes at bottlenecks took throughput from 35 to 112 chips in 1,000 hours (simulated). |
 | [autonomous-inventory-cpws](https://github.com/AdharshUSA/autonomous-inventory-cpws) | Fault-tolerant autonomous inventory network across 3 warehouses and 5 suppliers, built in MATLAB and Simulink. Simulated fill rate rose from 89.2% to 97.3%. |
-| [store-demand-forecasting](https://github.com/AdharshUSA/store-demand-forecasting) | Five forecasting models benchmarked on 913K retail sales records. Neural networks came out ahead. |
+| [store-demand-forecasting](https://github.com/AdharshUSA/store-demand-forecasting) | Five forecasting models benchmarked on 913K retail sales records. The team report favors the neural networks, but a common-scale check favors XGBoost. |
 | [fab-engineering-lots-sensitivity](https://github.com/AdharshUSA/fab-engineering-lots-sensitivity) | Simulation study of how engineering lot policies affect WIP, cycle time and throughput in a wafer fab. |
 | [intel-advanced-analytics-case](https://github.com/AdharshUSA/intel-advanced-analytics-case) | Review of Intel's $25.4B analytics program (Heiney et al., 2021): MIP, genetic algorithms and wafer-start optimization. |
 | [digital-transformation-case-studies](https://github.com/AdharshUSA/digital-transformation-case-studies) | Team case studies on Bosch, C3 and ERP technology from a digital transformation in industrial businesses course. |
