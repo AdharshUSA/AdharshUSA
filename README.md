@@ -57,6 +57,6 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 ## Connect
 
-Email: rajasek4@purdue.edu
+Email: adhurajausa@gmail.com
 
 📍 West Lafayette, IN
