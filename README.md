@@ -64,7 +64,7 @@ I help supply chains plan better, using simulation, forecasting and optimization
 ## Currently
 
 - Finishing my MS in Industrial Engineering at Purdue (December 2026)
-- Looking for full-time roles in supply chain planning, operations analytics and industrial engineering
+- Looking for full-time roles in demand planning, supply planning, material planning, capacity planning, production planning, operations analytics and industrial engineering
 - Open to relocation
 
 ## Connect
