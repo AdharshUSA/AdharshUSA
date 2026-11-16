@@ -14,23 +14,40 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 ## Experience
 
-**Kinaxis Inc., Chennai** | Jan 2022 – Jun 2025
+### Kinaxis Inc., Chennai | Jan 2022 – Jun 2025
 
-- **Supply Chain Planning Associate** (Jan 2024 – Jun 2025): deployed Kinaxis Maestro supply and capacity planning for multi-site manufacturers, cutting planning cycle time by ~30%, and built capacity models that improved plan accuracy by 20–25%
-- **Supply Chain Planning Analyst** (Jul 2022 – Jan 2024): built capacity planning dashboards (~25% better constraint visibility), reached 99.5% ERP–planning data sync reliability, and automated planning workflows to save ~8 hours a week
-- **Intern, Supply Chain Planning Analyst** (Jan 2022 – Jul 2022): automated planning data workflows and BOM cleanup, improving data accuracy by ~10–15%
+**Supply Chain Planning Associate** (Jan 2024 – Jun 2025)
 
-**DRDO – CVRDE, Chennai** | Intern R&D Engineer, Dec 2021 – Jun 2022
+- Designed and deployed Kinaxis Maestro supply and capacity planning for multi-site manufacturers, cutting planning cycle time by ~30% and speeding sourcing and production decisions
+- Built long- and short-term capacity models with demand variability, alternate BOMs and resource constraints, improving capacity plan accuracy by 20–25%
+- Optimized inventory targets and exception management for high-volume SKUs across industries, lowering stockout risk while reducing excess inventory exposure
 
-- Ran performance tests on ~15 drivetrain and suspension components for armored vehicles and analyzed results in MATLAB and Excel, flagging 3 components outside tolerance
+**Supply Chain Planning Analyst** (Jul 2022 – Jan 2024)
 
-**Integral Coach Factory, Chennai** | Intern Process Engineer, Dec 2019
+- Developed capacity planning dashboards that improved constraint visibility by ~25% and helped avoid 3 critical overruns in one fiscal year
+- Re-engineered ERP–planning integration pipelines to reach 99.5% data sync reliability and cut unplanned system downtime by ~20%
+- Automated recurring planning workflows (data imports, scenarios, parameter setup), saving ~8 hours a week and standardizing execution across delivery teams
 
-- Mapped a coach assembly workflow with value stream mapping and time studies at 6 workstations, identifying 3 improvements (estimated ~8–10% cycle-time reduction)
+**Intern, Supply Chain Planning Analyst** (Jan 2022 – Jul 2022)
 
-**Unipres (UK) Limited, Chennai** | Intern Mechanical Engineer, Nov 2019
+- Improved planning data accuracy by ~10–15% by automating workflows and redesigning planning data tables
+- Ran BOM explosion, validation and master data cleanup, reducing manual engineering and planning effort by ~25%
 
-- Analyzed press operations across 4 body-panel lines and co-authored a process review recommending SMED die changeover improvements (estimated ~12% changeover reduction)
+### DRDO – CVRDE, Chennai | Intern R&D Engineer, Dec 2021 – Jun 2022
+
+- Ran component-level performance tests on ~15 drivetrain and suspension components for armored vehicle systems, recording load, temperature and wear data against design specifications
+- Analyzed results in MATLAB and Excel and flagged 3 components outside tolerance for design review
+- Authored 2 technical reports on test procedures, results and recommendations, adopted as a reference for later test cycles
+
+### Integral Coach Factory, Chennai | Intern Process Engineer, Dec 2019
+
+- Mapped the shell assembly and furnishing workflow on lines producing 200+ coaches a month using flow charts and value stream mapping
+- Ran time studies at 6 workstations and identified 3 improvements in material handling and station idle time (estimated ~8–10% cycle-time reduction), presented to the shop supervisor
+
+### Unipres (UK) Limited, Chennai | Intern Mechanical Engineer, Nov 2019
+
+- Analyzed press operations across 4 automotive body-panel lines, recording cycle times, die changeover steps and defect types in Excel
+- Co-authored a process review recommending SMED-based die changeover improvements and scrap tracking at the press line (estimated ~12% reduction in changeover time)
 
 ## Education and certifications
 
@@ -59,7 +76,7 @@ I help supply chains plan better, using simulation, forecasting and optimization
 
 - [forecasting-control-literature-synthesis](https://github.com/AdharshUSA/forecasting-control-literature-synthesis): four recent papers (k-NN, AI hybrids, Kalman filter, Forecasting as a Service) combined into one planning architecture
 - [spc-personal-productivity-dmaic](https://github.com/AdharshUSA/spc-personal-productivity-dmaic): seven-week DMAIC study with p-charts, c-charts and Pareto analysis
-- [closetcast](https://github.com/AdharshUSA/closetcast): product management case with a pilot-gated launch plan, business case and prototype for a weather and comfort-aware outfit app (course concept)
+- [closetcast](https://github.com/AdharshUSA/closetcast): product management case with a pilot-gated launch plan, business case and [live prototype](https://adharshusa.github.io/closetcast/) for a weather and comfort-aware outfit app (course concept)
 
 ## Currently
 
